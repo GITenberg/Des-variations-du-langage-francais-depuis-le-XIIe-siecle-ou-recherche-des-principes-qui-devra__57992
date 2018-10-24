@@ -1,0 +1,32 @@
+_repo: Des-variations-du-langage-francais-depuis-le-XIIe-siecle-ou-recherche-des-principes-qui-devra__57992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Génin, F. (François)
+    aliases:
+    - Genin, F. (Francois)
+    - Génin, François
+    birthdate: 1803
+    deathdate: 1856
+    gutenberg_agent_id: '47326'
+    url: http://www.gutenberg.org/2009/agents/47326
+description: ''
+gutenberg_bookshelf:
+- FR Langues
+- FR Nouveautés
+gutenberg_issued: '2018-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57992'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Des variations du langage français depuis le XIIe siècle
+
+  ou recherche des principes qui devraient régler
+
+  l''orthographe et la prononciation'
+url: http://www.gutenberg.org/ebooks/57992
